@@ -1,4 +1,4 @@
-<h1 align="center">hello i'm Herman Mendel</h1>
+<h1 align="center">Hello i'm Herman Mendel</h1>
 <h3 align="center">I can code 🤩</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hoimen" alt="hoimen" /></a> </p>
